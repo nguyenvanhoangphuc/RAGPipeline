@@ -132,6 +132,7 @@ def normalize_dict(data):
     elif isinstance(data, list):
         return [normalize_dict(item) for item in data]
     else:
+        print("type(data)", type(data))
         return normalize_text(data)  # Áp dụng hàm normalize lên giá trị đơn giản
 
 def setupCuda(cuda='0'):

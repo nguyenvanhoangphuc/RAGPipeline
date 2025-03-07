@@ -1,0 +1,264 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "",
+      "chapter_title": "",
+      "articles": [
+        {
+          "article_number": "１",
+          "article_title": "総則と目的",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "この規程は、職場におけるパワーハラスメント、セクシャルハラスメント及び妊娠・出産・育児休業等に関するハラスメント(以下「職場におけるハラスメント」という)を防止するために、労働者等が遵守する事項を定めたものである。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "この規定に言う職場とは、事業主が雇用する労働者が業務を遂行する場所を指し、当該労働者が通常就業している場所以外の場所であっても、当該労働者が業務を遂行する場所についても含むものとする。また、この規定に言う労働者等とは、正社員だけでなく契約社員及び派遣労働者も含まれるものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "３",
+              "clause_title": "この規程は、労働者等がハラスメントに関する正しい認識を持ちハラスメントを未然に防ぐことにより、働きやすい職場環境を実現することを目的とする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "２",
+          "article_title": "パワーハラスメントの定義",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "パワーハラスメントとは、職場において行われる次の全てにあてはまるものをいう。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "客観的に見て業務上必要かつ相当な範囲で行われる適正な業務指示や指導については、パワーハラスメントには該当しない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "３",
+          "article_title": "パワーハラスメントの禁止事項",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "パワーハラスメントの禁止事項は、次のとおりとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "４",
+          "article_title": "セクシャルハラスメントの定義",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "セクシャルハラスメントとは、職場において労働者の意に反する性的な言動が行われ、それに対して拒否・抵抗などをしたことで、労働者が解雇、降格、減給などの不利益を受けることをいう。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "職場において行われる労働者の意に反する言動により、労働者の就業環境が不快なものとなったため、能力の発揮に重大な悪影響が生じるなど労働者が就業する上で見過ごすことができない程度の支障が生じること。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "３",
+              "clause_title": "異性に関する言動だけでなく、同性に対する言動も該当する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "５",
+          "article_title": "セクシャルハラスメントの禁止事項",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "セクシャルハラスメントの禁止事項は、次のとおりとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "６",
+          "article_title": "妊娠・出産・育児休業等に関するハラスメントの定義",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "妊娠・出産・育児休業等に関するハラスメントとは、職場において行われる上司・同僚からの言動により次の労働者の就業環境が害されることをいう。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "客観的に見て業務上必要かつ相当な範囲で行われる適正な業務指示や指導については、妊娠・出産・育児休業等に関するハラスメントには該当しない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "７",
+          "article_title": "妊娠・出産・育児休業等に関するハラスメントの禁止事項",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "妊娠・出産・育児休業等に関するハラスメントの禁止事項は、次のとおりとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "８",
+          "article_title": "職場のハラスメントにおける上司の禁止行為",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "部下である従業員が、職場におけるハラスメントを受けている事実を認めながら、これを黙認する行為を行ってはならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "９",
+          "article_title": "懲戒",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "次の各号に該当する場合、就業規則第55条(懲戒の種類)の懲戒解雇を行う。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": 1,
+                  "sub_clause_content": "第3条第1項　身体的攻撃（殴打、足蹴りするなど）"
+                },
+                {
+                  "sub_clause_number": 2,
+                  "sub_clause_content": "第5条第6項交際・性的関係の強要"
+                },
+                {
+                  "sub_clause_number": 3,
+                  "sub_clause_content": "第5条第7項　性的な言動への抗議または拒否等を行った従業員に対して、解雇、不当な人事考課、配置転換等の不利益を与える行為"
+                },
+                {
+                  "sub_clause_number": 4,
+                  "sub_clause_content": "下記第2項の言動が、再度におよんだ場合"
+                }
+              ]
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "次の各号に該当する場合、就業規則第55条(懲戒の種類)の譴責、減給、出勤停止を行う。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": 1,
+                  "sub_clause_content": "第3条(第1項を除く)"
+                },
+                {
+                  "sub_clause_number": 2,
+                  "sub_clause_content": "第5条(第6,7項を除く)"
+                },
+                {
+                  "sub_clause_number": 3,
+                  "sub_clause_content": "第7項"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "１０",
+          "article_title": "(相談及び苦情への対応",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "各事業場に職場におけるハラスメントに関する窓口を設置し、担当者に対する対応マニュアルの作成及び対応に必要な研修を行うものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "職場におけるハラスメントの被害者に限らず、すべての労働者等は、パワーハラスメントや性的な言動、妊娠・出産。育児休業等に関する就業環境を害する言動に関する相談を相談窓口の担当者に申し出ることができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "３",
+              "clause_title": "対応マニュアルに沿い、相談窓口担当者は相談者からの事実確認の後、各事業場の所属長へ報告する。報告に基づき相談者のプライバシーに配慮した上で、必要に応じて行為者、被害者、上司その他の労働者等に事実関係を聴収する。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "４",
+              "clause_title": "前項の聴取を求められた労働者等は、正当な理由なくこれを拒むことはできない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "５",
+              "clause_title": "対応マニュアルに沿い、所属長は人事担当者に事実関係を報告し、問題解決のための措置として、第９条による懲戒の他、行為者の異動等被害者の労働条件および就業環境を改善するために必要な措置を講じる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "６",
+              "clause_title": "相談及び苦情への対応に当たっては、関係者のプライバシーは保護されるとともに、相談をしたこと又は事実関係の確認に協力したこと等を理由として不利益な取扱いは行わない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "１１",
+          "article_title": "(再発防止の義務",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "人事担当者は、職場におけるハラスメント事案が生じたときは、周知の再徹底及び研修の実施、事案発生の原因の分析等、適切な再発防止策を講じなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "１２",
+          "article_title": "業務体制の整備",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "所属長は、妊娠・出産、育児や介護を行う労働者等が安心して制度を利用し、仕事との両立ができるようにするようにするため業務配分の見直し等を行う。相談窓口担当者は業務体制の整備について、所属長の相談に対応する。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "労働者等は、会社が整備する妊娠・出産、育児や介護に関する制度を就業規則等により確認する。制度や措置を利用する場合には、早めに上司や相談窓口担当者に相談し、制度の円滑な利用のために業務に係る労働者等との円滑なコミュニケーションを図るように努める。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "１３",
+          "article_title": "その他",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "性別役割分担意識に基づき言動は、セクシャルハラスメントの発生の原因や要因になりうること、また、妊娠・出産・育児休業等に関する否定的な言動は、妊娠・出産・育児休業等に関するハラスメントの発生の原因や背景となりうることから、このような言動を行わないよう注意すること。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "１４",
+          "article_title": "規程の改定及び廃止",
+          "clauses": [
+            {
+              "clause_number": "１",
+              "clause_title": "本規程は、社会情勢や会社の経営状況などにより、規定を改定及び廃止することがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "２",
+              "clause_title": "改定及び廃止は、原則、代表取締役と労働者代表による労使協議の上、決定する。",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
