@@ -1,0 +1,2147 @@
+{
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "総則",
+      "articles": [
+        {
+          "article_number": "1",
+          "article_title": "目的",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "この就業規則（以下「規則」という。）は、株式会社●●●●の労働者の就業に関する事項を定めるものである。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "この規則に定めた事項のほか、就業に関する事項については、労基法その他の法令の定めによる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "2",
+          "article_title": "労働者の定義及び適用範囲",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "この規則は、本条第2項に規定するすべての労働者に適用する。また本規則における労働者とは本条第2項に規定するもののことを指す。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "この規則で労働者とは第2章に定める手続きにより入社した者で、次の通り定義する。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "正社員・・・・・・・契約社員・嘱託社員・パートタイマー・アルバイト・派遣社員以外の労働者で期間の定めがなく雇用される基幹業務に従事する労働者"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "勤務地限定社員・・・契約社員・アルバイト以外の労働者で期間の定めがなく勤務地が正社員と比べ限定され雇用される労働者"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "職務限定社員・・・・契約社員・アルバイト以外の労働者で期間の定めがなく職務が正社員と比べ限定され雇用される労働者"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "短時間正社員・・・・契約社員・嘱託社員・パートタイマー・アルバイト・派遣社員以外の労働者で期間の定めがなくフルタイム勤務で働く正社員に比べ短い労働時間で雇用される労働者"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "無期契約社員・・・・正社員以外で無期労働契約により雇用される基幹業務の補助をする労働者"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "有期契約社員・・・・有期労働契約により雇用される基幹業務の補助をする労働者。原則1年ごとの更新とし、個別に定めるものとする。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "嘱託社員・・・・・・定年退職後に引き続き有期労働契約により雇用される労働者。原則1年ごとの更新とし、個別に定めるものとする。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "パート／アルバイト　契約期間の有無にかかわらず、業務の一部や臨時的に業務を行う労働者"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "派遣社員・・・・・・派遣元事業所より派遣され、派遣元の指揮命令を受け就業する労働者"
+                }
+              ]
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "パートタイマー、アルバイトに関しては本則第36条を適用せず、1カ月の労働時間が正社員と比べて短い契約を個別に定める",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "派遣社員に関しては、派遣元事業所の就業規則及び契約内容に準ずる",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "3",
+          "article_title": "規則の遵守",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、この規則に定める労働条件により、労働者に就業させる義務を負う。また、労働者は、この規則を遵守しなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "4",
+          "article_title": "労働条件の変更",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、法律の制定、改廃または経営上の必要性等がある場合は、この規則の内容を変更することができる。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "採用、異動等",
+      "articles": [
+        {
+          "article_number": "5",
+          "article_title": "採用手続",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、入社を希望する者の中から選考試験を行い、これに合格した者を採用する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "6",
+          "article_title": "採用時の提出書類",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者として採用された者は、採用を通知された日から会社が指定する期日までに次の書類を提出しなければならない。ただし、会社が認めた場合には、その一部を省略または提出期限を延期することができる。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "履歴書・職務経歴書"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "入社誓約書"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "個人情報保護法に基づく誓約書"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "住民票記載事項証明書"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "給与所得者の扶養控除等（異動）申告書"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "源泉徴収票"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "雇用契約書"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "年金手帳の写し"
+                },
+                {
+                  "sub_clause_number": "9",
+                  "sub_clause_content": "通勤手当申請書"
+                },
+                {
+                  "sub_clause_number": "10",
+                  "sub_clause_content": "住宅手当申請書"
+                },
+                {
+                  "sub_clause_number": "11",
+                  "sub_clause_content": "給与振込先申請書"
+                },
+                {
+                  "sub_clause_number": "12",
+                  "sub_clause_content": "身元保証書"
+                },
+                {
+                  "sub_clause_number": "13",
+                  "sub_clause_content": "雇用保険被保険者証の写し"
+                },
+                {
+                  "sub_clause_number": "14",
+                  "sub_clause_content": "マイナンバーカード又はマイナンバー通知書の写し"
+                },
+                {
+                  "sub_clause_number": "15",
+                  "sub_clause_content": "資格免許証の写し"
+                },
+                {
+                  "sub_clause_number": "16",
+                  "sub_clause_content": "健康診断結果"
+                },
+                {
+                  "sub_clause_number": "17",
+                  "sub_clause_content": "学生証の写し"
+                },
+                {
+                  "sub_clause_number": "18",
+                  "sub_clause_content": "パスポートの写し"
+                },
+                {
+                  "sub_clause_number": "19",
+                  "sub_clause_content": "その他会社が必要と認めたもの"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項の定めにより提出した書類の記載事項や次の事項などに変更が生じた場合は、速やかに書面で会社に変更事項を届け出なければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "氏名"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "現住所、電話番号、勤経路"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "住民票住所"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "養家族"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "学歴、資格、免許"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "その他会社が必要と認めたもの"
+                }
+              ]
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "届出に遅滞があったことにより労働者本人が不利益を受けた場合は、原則として、当該労働者がその不利益を負うものとし会社は一切の関与をしないものとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "7",
+          "article_title": "身元保証",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "身元保証人は、独立の生計を営んでいる成年者であって、本人の配偶者、父母、兄弟姉妹またはこれに代わる近親者の中から会社が適当と認める者1名とする。ただし、これに該当する者がいないときは、会社が身元保証人としてふさわしいと認めた者を身元保証人とすることができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "身元保証の期間は5年間とし、会社が特に必要があると認めた場合、更新を求めることができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "労働者が会社の規則または指示を遵守しなかったことにより会社に損害を与えたときは、会社が身元保証人に対し、その損害の賠償を求めることがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "労働者は、次のいずれかに該当する場合は直ちに新たな身元保証人を立て身元保証書を提出しなければならない。新たな保証人の補償契約期間は、前の身元保証人の契約存続期間とする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "身元保証人が死亡したとき"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "身元保証契約の解除によって、身許保証人を欠いたとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "身元保証人が本条第1項の要件を欠いたとき"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "8",
+          "article_title": "労働条件の明示",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、労働者を採用するとき、採用時の賃金、就業場所、従事する業務、労働時間、休日、その他の労働条件を記した労働条件通知書または雇用契約書、及びこの規則を交付して労働条件を明示するものとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "9",
+          "article_title": "内定取消事由",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "採用内定者が次の各号のいずれかに該当する場合は、内定を取り消し、採用しない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "卒業、免許の取得等採用の前提となる条件が達成されなかったとき"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "採用内定後に傷病に罹患し、または採用選考時に過去の病歴、持病、および現在の治療中の傷病について健康告知を怠り、健康状態が業務に耐えられないと会社が判断したとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "履歴書等の提出書類の記載事項に偽りがあったとき"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "採用内定後に犯罪行為等社会的に不名誉な行為を行ったとき、または採用選考時に過去の犯罪行為等を秘匿していたことが判明したとき"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "採用内定決定時には予想できなかった会社の業績等経営環境の悪化、事業運営の見直し等が行われたとき"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "会社の機密情報を他に漏洩し、重大な損害を会社に与えたとき"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "会社が提出を求めた書類等を提出期限までに提出しないとき"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "暴力団や暴力団関係者といった反社会的勢力などと関わりがあると判明したとき"
+                },
+                {
+                  "sub_clause_number": "9",
+                  "sub_clause_content": "この規則（労務の提供を除く）に対し、重大な違反行為があったとき"
+                },
+                {
+                  "sub_clause_number": "10",
+                  "sub_clause_content": "その他、採用内定時には会社が知り得ない採否決定にかかわる重要な事実が明らかとなった場合、または上記と同様な、あるいはやむを得ない事由があるとき"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "10",
+          "article_title": "採用後の不適格者の取扱い",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "採用後、配属された担当職種（職務）での勤務成績が劣る場合には、会社は、労働者本人との面接を実施し、教育指導・改善指導を行う。ただし、その後もなお同様の勤務成績が継続した場合には、採用時に明示した労働条件（所定の基本賃金額・諸手当額を含む）を見直し、担当職種、および担当職務の変更を伴う配置転換、転勤、出向等を検討して人事異動を命じる。労働者はこの命令を拒むことはできないものとする。@ただし、配置転換、転勤、出向等の人事異動を行うについて異動により配属する部署、配置する担当職務等、就業場所の確保が困難な場合には、労基法の定めに従い解雇する。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "専門知識・技能・経験など過去の職務経験の積み重ねにより保有する能力に基づき、入社と同時に即戦力として活躍することを「雇用契約締結の前提となる重要な必要条件」として雇用された中途採用者については、採用後、配属した担当職種での専門知識、職務遂行能力、および勤務状況などについて、勤務成績が会社の求め期待する水準に達せず、劣る場合には、前項前段によらず、会社は当然に雇用契約を解約することができるものとする。この場合、会社は、教育・指導・養成等の猶予期間を設けることなく、労基法の定めに従い解雇する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "11",
+          "article_title": "試用期間",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者として新たに採用した者については、採用した日から3ヶ月を試用期間とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "前項について、本人の適格性に応じて、試用期間を短縮または延長することがある。その場合は、別途書面を以って本人に通知する。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "試用期間中に労働者として不適格と認めた者は、解雇することがある。ただし、入社後14日を経過した者については、第50条第2項に定める手続によって行う。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "試用期間は、勤続年数に通算する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "12",
+          "article_title": "人事異動",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、業務上必要がある場合に労働者に対し以下の人事異動を命ずることがある。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "就業する場所及び従事する業務の変更"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "関連会社への出向"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "関連会社への転籍"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "第3号の転籍を命ずる場合は、本人の同意を得るものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は正当な理由なくこれを拒むことはできない。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "3",
+      "chapter_title": "休職・復職等",
+      "articles": [
+        {
+          "article_number": "13",
+          "article_title": "休職",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が、次のいずれかと会社が判断したときは、所定の期間休職とする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "業務外の傷病による欠勤が継続または継続を問わずに30日以上におよび、引き続き療養するため勤務できないとき"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "精神または身体上の疾患により労務の提供が不完全であり、業務の支障が出るとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "会社の指示により、出向または会社外の業務に従事したとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "前各号のほか、特別な事情があり休職させることが適当と認められるとき"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "前項について、下記に該当する労働者は適用除外とする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "試用期間中の者"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "雇入れから1年未満の者"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "契約社員"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "パートタイマー"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "アルバイト"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "嘱託社員"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "正社員以外"
+                }
+              ]
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "休職期間は、以下のとおりとする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "第1項①の場合勤続1年未満・・・・・・・・なし勤続1年以上・・・・・・・・1カ月"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "第1項②、③、④の場合会社が必要と判断した期間"
+                }
+              ]
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "休職から復帰後6ヵ月以内に、同一または類似の事由により次のいずれかの状態になった場合、復帰を取消し休職とする。この場合、休職期間は、休職前と通算する。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "欠勤が、継続して10日以上"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "20日間のうち、欠勤が断続して10日以上"
+                }
+              ]
+            },
+            {
+              "clause_number": "5",
+              "clause_title": "複数の休職期間を繰り返す場合、この制度の最長期間は最初の休職日から2年以内とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "6",
+              "clause_title": "会社が必要と認めた場合、上記の期間を延長することがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "7",
+              "clause_title": "対象者の様態を確認するため、会社は医師の診断書等の提出を求めることができる。診断書等の発行に関する費用は、対象者の負担とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "8",
+              "clause_title": "前項の診断書等の提出を正当な理由なく対象者が拒んだ場合、会社は休職を認めないことができる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "14",
+          "article_title": "休職中の取扱い",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "休職中は、年次有給休暇の付与に関する年数計算を除いて、勤続年数には通算しない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "休職期間中は、無給とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "休職期間中の健康保険料（介護保険料を含む）、厚生年金保険料、住民税等の本人負担分が発生した場合、会社の指定した日までに現金または振込にて会社に支払わなければならない。振込手数料は、対象者の負担とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "前項の本人負担分を会社の指定した日までに支払えない場合、必ず会社に連絡しなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "15",
+          "article_title": "休職中の服務",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "休職期間中は、休職理由の改善等に努めなければならない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "前項にかかわらず、逸脱した行動や会社の信用を失墜する行為が認められた場合、会社は休職を打切り懲戒処分を行うことができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "対象者の様態を確認するため、会社は状況報告を求めることができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "前項の状況報告を正当な理由なく拒んだ場合、会社は休職を打切り休職期間が満了したとみなすことができる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "16",
+          "article_title": "復職",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "対象者が復職を希望する場合、所定の手続きにより会社に申し出なければならない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "対象者の休職事由が消滅したと会社が判断した場合、会社は原則として休職前と同一の業務に復職を命ずる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "前項の休職事由が消滅したという判断基準は、次のいずれにも該当する場合をいう。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "休職前と同一の業務に、従事することができること"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "休職前と同一の業務に、従事する健康状態に回復していること"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "所定労働時間の勤務が、可能なこと"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "会社の業務を行うことについて、十分な意欲を有していること"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "自分自身の力で、安全な通勤ができること"
+                }
+              ]
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "前項の判断を行うため、会社は次の指示を行うことができる。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "診断書の提出を求める"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "面談を行うことができる"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "会社が指定する医師の診断を受けさせることができる"
+                }
+              ]
+            },
+            {
+              "clause_number": "5",
+              "clause_title": "前項の指示を正当な理由なく拒んだ場合、会社は休職期間満了の日に退職とすることができる",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "6",
+              "clause_title": "休職期間満了日に休職前と同一の業務に復職できない場合、原則として休職満了日に退職となる。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "4",
+      "chapter_title": "服務規律",
+      "articles": [
+        {
+          "article_number": "17",
+          "article_title": "服務",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、職務上の責任を自覚し、誠実に職務を遂行するとともに、会社の指示命令に従い、職務能率の向上及び職場秩序の維持に努めなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "18",
+          "article_title": "職務専念事項に関する遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、職務専念に関する以下の事項を守らなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "遅刻、早退、欠勤をしないこと。ただし、会社の許可を得た場合は、この限りではない。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "勤務時間中に会社の許可を得ることなく職場を離れたり、私用外出または私的面会をしないこと"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "業務上の報告を怠ったり、又は虚偽の報告をしないこと。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "勤務時間中は私的な目的での通話、SNS,電子メール等の送受信およびインターネット利用等をしないこと。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "会社の発展のために積極的貢献の意欲を持ち職務を遂行すること。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "他社の業務（請負、委任、アルバイト等契約形態を問わない。）に従事または自己の事業を行うなどの副業・兼業を行う場合は、会社の許可を得ること。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "前各号のほか、労働者は職務専念業務に関する会社の規則・指示・命令に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "19",
+          "article_title": "秩序維持に関する遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、秩序維持に関する以下の事項を守らなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "服装を整え、定められた備品を携行すること。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "故意に他の労働者の業務を妨げないこと。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "会社施設内で、会社の許可なく集会、演説、文書の配布、回覧、貼、掲示を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "会社施設内において、物品の販売またはネズミ講・マルチ商法・ネットワークビジネス並びに業務と関連のない勧誘・署名・宗教活動・政治活動等を行わないこと。また、会社施設外においても、職場での地位、関係性を利用してこれらの行為を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "自己の職務上の権限を逸脱又は濫用をしないこと。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "互いの人格を尊重し、ハラスメント行為を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "酒気を帯びて勤務しないこと。"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "窃盗・暴行・脅迫・障害・横領・賭博その他これに類する行為並びに刑法に抵触する行為を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "9",
+                  "sub_clause_content": "労働者間または取引先との間で、日常的な消費の範囲を超える金銭の貸借を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "10",
+                  "sub_clause_content": "他の労働者に会社への虚偽の報告をさせたり、口止めを強要したりしないこと。"
+                },
+                {
+                  "sub_clause_number": "11",
+                  "sub_clause_content": "会社に申告した通勤経路・手段等と相違する通勤経路・手段等を用いることにより、通勤手当を不当に得ないこと。"
+                },
+                {
+                  "sub_clause_number": "12",
+                  "sub_clause_content": "会社の許可なく、自動車、自動二輪車、原動機付自転車（以下、これらを「車両」という）を通勤や業務に使用しないこと。"
+                },
+                {
+                  "sub_clause_number": "13",
+                  "sub_clause_content": "会社の許可なく、業務上必要としない私物を施設内に持ち込まないこと。"
+                },
+                {
+                  "sub_clause_number": "14",
+                  "sub_clause_content": "その他前各号に準ずる会社の秩序を乱す行為をしないこと。"
+                },
+                {
+                  "sub_clause_number": "15",
+                  "sub_clause_content": "前各号のほか、労働者は秩序維持に関する会社の規則・指示・命令に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "20",
+          "article_title": "信用維持に関する遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、信用維持に関する以下の事項を守らなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "労働者としての品位を保ち、会社・役員または他の労働者の名誉および信用を傷つける行為をしないこと。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "職務に関連して自己の利益を図り、又は頼り不当に金品を借用若しくは贈与を受けるなどの不正な利益供与を受けないこと。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "行使にかかわらず交通法規を遵守し、特に飲酒運転・酒気帯び運転及びあおり運転をしないこと。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "過労、病気及び薬物の影響その他の理由により正常な運転ができないおそれがある状態での車両の運転をしないこと。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "自らの退職に際して、他の労働者に対して引き抜き行為を行わないこと。又、知人、家族、親類などの利益のために引き抜き行為を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "前各号のほか、信用維持に関する法令、会社の規則・指示・命令に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "21",
+          "article_title": "施設維持に関する遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、施設管理に関する以下の事項を守らなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "会社の施設・車両、機械、器具その他の備品（以下「設備等」という）を大切にし、製品及び書類は丁寧に扱い、その保管を厳重にすること。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "施設又は設備等に故障、破損または紛失等があったときは、会社に報告すること。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "会社の許可なく、会社の設備等を施設外に持ち出さないこと。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "前各号のほか、施設管理に関する法令、会社の規則・指示・命令に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "22",
+          "article_title": "情報管理に関する遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、情報管理に関する以下の事項を守らなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "職務上知り得た会社の秘密事項及び他社の秘密事項については、在職中はもちろん退職後といえどもみだりに開示したり、業務外の目的に使用しないこと。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "第1号に定める秘密事項を会社の許可なく収集・複製・撮影・持ち出ししないこと。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "業務中又は会社の施設内ならびに取引先等業務関係場所において、みだりに人物（本人・他の労働者・顧客等）又は商品、社内文書、施設、設備等を撮影しないこと。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "会社の許可なく、職務上知り得た一切の情報（撮影した写真等を含む）について、ソーシャルメディア・マスメディア等に通じて公開しないこと。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "会社が発行するパスワード、その他認証のための暗号等の管理に十分注意し、会社の許可なく第三者に教えないこと。また、会社の許可なくパスワードを変更しないこと。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "業務に使用するパソコンにおいて、会社が許可していないソフトウエアをインストールしないこと。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "電子メール、SNS等を通じて会社情報、不利益となる事項、他の者を不当に避難・中傷する情報を流さないこと。"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "会社の許可なく、私的な電子メール・SNSアカウント等を業務に用いないこと。"
+                },
+                {
+                  "sub_clause_number": "9",
+                  "sub_clause_content": "前各号のほか、情報管理に関する法令、会社の規則。指示。命令に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "23",
+          "article_title": "安全管理に関する遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、安全衛生に関する次の各号を順守しなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "常に職場の整理整頓に努めること。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "安全衛生上危険性のある機械・器具等を取扱うときは、十分に注意し、取り扱い担当者が限定されているものについては、会社の許可なく使用しないこと。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "会社施設内においては、許可された場所で喫煙すること。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "消火設備、その他の危険防止のために設けられた設備を会社の許可なく撤去・変更等その効力を失わせるような行為を行わないこと。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "業務に影響のある自らの健康異常については報告すること。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "前各号のほか、安全衛生に関する法令、会社の規則・指示・命令に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "24",
+          "article_title": "管理監督責任に関する事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "部下を持つ労働者は、管理監督責任に関する次の各号を順守しなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "部下の管理監督、業務上の指導又は必要な指示・注意を怠らないこと。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "部下の非違行為に加担しないこと、又、部下の非違行為を知った場合、必要な注意・指導を行うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "25",
+          "article_title": "セクシュアルハラスメントの禁止",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "性的言動により、他の労働者に不利益や不快感を与えるなど、就業環境を害するようなことをしてはならない。その他、職場におけるハラスメント防止に関する規程によるものとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "26",
+          "article_title": "職場のパワーハラスメントの禁止",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "職務上の地位や人間関係などの職場内の優位性を背景にした、業務の適正な範囲を超える言動により、他の労働者に精神的・身体的な苦痛を与えるなど、就業環境を害するようなことをしてはならない。その他、職場におけるハラスメント防止に関する規程によるものとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "27",
+          "article_title": "妊娠・出産・育児休業・介護休業等に関するハラスメントの禁止",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "妊娠・出産等に関する制度又は措置の利用に関する行動により、他の労働者の就業環境を害するようなことはしてはならない。その他職場におけるハラスメント防止に関する規程によるものとする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "28",
+          "article_title": "その他あらゆるハラスメントの禁止",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "第25条から第27条までに規定するものの他、性的思考・性自認に関する言動によるものなど職場におけるあらゆるハラスメントにより、他の労働者の職業環境を害するようなことはしてはならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "29",
+          "article_title": "個人情報保護",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は、会社及び取引先等に関する情報の管理に十分注意を払うとともに、自らの業務に関係のない情報を不当に取得してはならない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は、職場又は職種を異動あるいは退職するに際して、自らが管理していた会社及び取引先等に関するデータ・情報書類等を速やかに返却しなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "30",
+          "article_title": "職務発明",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "職務発明とは、その性質上、会社の業務範囲に属し、かつ、その発明をするに至った行為が、その会社における労働者の現在又は過去の職務に属する発明をいう。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "会社は、職務発明を行った労働者に対して、相当の対価を支払うことによって、当該職発明について特許を受ける権利を取得することができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "会社は本条第2項の相当の対価について、その根拠を示して労働者に説明し、労働者の意見も聴衆のうえ、その額を決定する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "31",
+          "article_title": "所持品検査及びモニタリング",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、必要に応じてその理由を明示の上、労働者の所持品について検査を行うことができ、当該労働者は、その検査に応じる義務がある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "会社は、業務上必要な場合及び社内秩序維持並びに危機管理等に必要な場合、会社が労働者に貸与したパソコン等電子機器で送受信した電子メール、当該労働者がインターネットで閲覧したページ、ビジネスチャットにおいて発信または受信した内容、その他のデータを閲覧することができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "本条第2項の閲覧に際して、会社から閲覧に必要なパスワードの開示を求められた場合は、当該労働者は速やかにそれに応じる義務がある。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "32",
+          "article_title": "内部通報",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が、事業の運営に関することで、会社に不利益または損害を与えると推測される情報を知った場合は、直ちにそれを会社に報告するものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "会社は、労働者が本条第1項の情報を会社に報告したことを理由に、その者を不利益に取り扱うことはしない。また、報告書についての秘密も厳守する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "33",
+          "article_title": "副業・兼業の許可",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は労働者に対し副業及び兼業の一切を禁止する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "34",
+          "article_title": "遅刻、早退、欠勤等",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者は遅刻、早退若しくは欠勤をし、又は勤務時間中に私用で事業場から外出する際は、事前に会社に対し申し出るとともに、承認を受けなければならない。ただし、やむを得ない理由で事前に申し出ることができなかった場合は、事後に速やかに届出をし、承認を得なければならない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項の場合は、原則として不就労分に対応する賃金は控除する。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "賃金算定期間に軽微な遅刻を含めて3回以上の遅刻があった場合には、会社に対し、速やかに始末書を提出することとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "傷病のため継続して3日以上欠勤するときは、医師の診断書を提出しなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "35",
+          "article_title": "出社禁止および退社命令",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、次の各号の一に該当する労働者に対して、出社を禁止し、又は退社を命じることができる。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "風紀秩序を乱し、または衛生上有害と認められた者"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "火気・凶器・毒物・薬物その他業務に必要のない危険物を携帯する者"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "業務を妨害し、又は会社の秩序を乱し、若しくはそのおそれのある者"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "酒気を帯びている者又は薬物を服用し言動に異常がある者、若しくは携帯する者"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "法令又は本規則の規定に基づいて就業若しくは出勤を禁止された者"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "健康診断の受診を命じられながら受診していない者"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "その他会社が就業に適さないと認めた者"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "5",
+      "chapter_title": "労働時間、休憩及び休日",
+      "articles": [
+        {
+          "article_number": "36",
+          "article_title": "労働時間及び休憩時間",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働時間は、1週間については40時間以内、1日については8時間以内とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "始業・終業の時刻及び休憩時間は、固定制とし次のとおりとする。ただし、業務の都合その他やむを得ない事情により、これらを繰り上げ、又は繰り下げることがある。この場合、前日までに労働者に通知する。個別の労働条件通知書に定める場合はそれを優先する。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "労働者は時間外労働（早出、残業）を行う必要が有る時は、事前に会社に報告し、時間外労働の申請をして会社の承認を得なければならない。なお、承認のない時間は時間外労働とみなさない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "出張およびその他、事業場外で勤務する場合において、労働時間を算定することが困難であるときは、本条第2項で定める労働時間を勤務したものとみなす。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "5",
+              "clause_title": "1週間における起算日は日曜日とする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "37",
+          "article_title": "休日",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "休日は以下のとおりとする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "土曜日"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "日曜日"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "その他会社が指定する日"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "業務の都合により会社が必要と認める場合は、あらかじめ前項の休日を他の日と振り替えることがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "個別の労働条件通知書に定める場合はそれを優先する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "38",
+          "article_title": "時間外及び休日労働等",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "業務の都合により、所定労働時間を超え、又は所定休日に労働させることがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項の場合、法定労働時間を超える労働又は法定休日における労働については、あらかじめ会社は労働者の過半数代表者と書面による労使協定を締結するとともに、これを所轄の労働基準監督署長に届け出るものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "妊娠中の女性、産後1年を経過しない女性労働者（以下「妊産婦」という）であって請求した者及び18歳未満の者については、本条第2項による時間外労働又は休日若しくは深夜（午後10時から午前5時まで）労働に従事させない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "災害その他避けることのできない事由によって臨時の必要がある場合には、本条第1項から本条第3項までの制限を超えて、所定労働時間外又は休日に労働させることがある。ただし、この場合であっても、請求のあった妊産婦については、所定労働時間外労働又は休日労働に従事させない。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "6",
+      "chapter_title": "休暇等",
+      "articles": [
+        {
+          "article_number": "39",
+          "article_title": "年次有給休暇",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "採用日から6か月間継続勤務し、所定労働日の8割以上出勤した労働者に対しては、10日の年次有給休暇を与える。その後1年間継続勤務するごとに、当該1年間において所定労働日の8割以上出勤した労働者に対しては、下の表のとおり勤続期間に応じた日数の年次有給休暇を与える。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項の規定にかかわらず、週所定労働時間30時間未満であり、かつ、週所定労働日数が4日以下（週以外の期間によって所定労働日数を定める労働者については年間所定労働日数が216日以下）の労働者に対しては、下の表のとおり所定労働日数及び勤続期間に応じた日数の年次有給休暇を与える。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "本条第1項又は本条第2項の年次有給休暇は、労働者があらかじめ請求する時季に取得させる。ただし、労働者が請求した時季に年次有給休暇を取得させることが事業の正常な運営を妨げる場合は、他の時季に取得させることがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "本条第3項の規定にかかわらず、労働者代表との書面による協定により、各労働者の有する年次有給休暇日数のうち5日を超える部分について、あらかじめ時季を指定して取得させることがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "5",
+              "clause_title": "本条第1項又は本条第2項の年次有給休暇が10日以上与えられた労働者に対しては、本条第3項の規定にかかわらず、付与日から1年以内に、当該労働者の有する年次有給休暇日数のうち5日について、会社が労働者の意見を聴取し、その意見を尊重した上で、あらかじめ時季を指定して取得させる。ただし、労働者が本条第3項又は本条第4項の規定による年次有給休暇を取得した場合においては、当該取得した日数分を5日から控除するものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "6",
+              "clause_title": "本条第1項及び本条第2項の出勤率の算定に当たっては、下記の期間については出勤したものとして取り扱う。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "年次有給休暇を取得した期間"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "産前産後の休業期間育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律（平成3年法律第76号。以下「育児・介護休業法」という。）に基づく育児休業及び介護休業した期間"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "業務上の負傷又は疾病により療養のために休業した期間"
+                }
+              ]
+            },
+            {
+              "clause_number": "7",
+              "clause_title": "付与日から1年以内に取得しなかった年次有給休暇は、付与日から2年以内に限り繰り越して取得することができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "8",
+              "clause_title": "本条第7項について、繰り越された年次有給休暇とその後付与された年次有給休暇のいずれも取得できる場合には、繰り越された年次有給休暇から取得させる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "40",
+          "article_title": "慶弔休暇",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "試用期間終業後、労働者が申請した場合は、慶弔休暇を与える。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "本人が結婚したとき"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "妻が出産したとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "配偶者、子又は父母が死亡したとき"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "配偶者の父母又は本人の兄弟姉妹が死亡したとき"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "祖父母、又は配偶者の兄弟姉妹が死亡したとき"
+                }
+              ]
+            },
+            {
+              "clause_number": "1",
+              "clause_title": "前項は会社が認めた日数を慶弔休暇とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "慶弔休暇については無給とする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "41",
+          "article_title": "産前産後の休業",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "6週間（多胎妊娠の場合は14週間）以内に出産予定の女性労働者から請求があったときは、休業させる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "産後8週間を経過していない女性労働者は、就業させない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "前項の規定にかかわらず、産後6週間を経過した女性労働者から請求があった場合は、その者について医師が支障がないと認めた業務に就かせることがある。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "42",
+          "article_title": "母性健康管理の措置",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "妊娠中又は出産後1年を経過しない女性労働者から、所定労働時間内に、母子保健法（昭和40年法律第141号）に基づく保健指導又は健康診査を受けるために申出があったときは、次の範囲で時間内通院を認める。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "産前の場合妊娠23週まで・・・・・・・・4週に1回妊娠24週から35週まで・・・2週に1回妊娠36週から出産まで\t・・・1週に1回ただし、医師又は助産師（以下「医師等」という。）がこれと異なる指示をしたときには、その指示により必要な時間"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "産後（1年以内）の場合・・・・・医師等の指示により必要な時間"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "妊娠中又は出産後1年を経過しない女性労働者から、保健指導又は健康診査に基づき勤務時間等について医師等の指導を受けた旨申出があった場合、次の措置を講ずる。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "妊娠中の通勤緩和措置として、通勤時の混雑を避けるよう指導された場合は、原則として1時間の勤務時間の短縮又は1時間以内の時差出勤を認める。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "妊娠中の休憩時間について指導された場合は、適宜休憩時間の延長や休憩の回数を増やす。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "妊娠中又は出産後の女性労働者が、その症状等に関して指導された場合は、医師等の指導事項を遵守するための作業の軽減や勤務時間の短縮、休業等の措置をとる。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "43",
+          "article_title": "育児時間及び生理休暇",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "1歳に満たない子を養育する女性労働者から請求があったときは、休憩時間のほか1日について2回、1回について30分の育児時間を与える。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "生理日の就業が著しく困難な女性労働者から請求があったときは、必要な期間休暇を与える。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "44",
+          "article_title": "育児・介護休業、子の看護休暇等",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者のうち必要のある者は、育児・介護休業法に基づく育児休業、介護休業、子の看護休暇、介護休暇、育児のための所定外労働の免除、育児・介護のための時間外労働及び深夜業の制限並びに所定労働時間の短縮措置等（以下「育児・介護休業等」という。）の適用を受けることができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "育児・介護休業等の取扱いについては、法定で定める基準による。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "45",
+          "article_title": "裁判員等のための休暇",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が裁判員若しくは補充裁判員となった場合又は裁判員候補者となった場合には、次のとおり休暇を与える。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "裁判員又は補充裁判員となった場合　　　　　　　　必要な日数"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "裁判員候補者となった場合　　　　　　　　　　　　必要な時間"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "7",
+      "chapter_title": "賃金",
+      "articles": [
+        {
+          "article_number": "46",
+          "article_title": "賃金",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "賃金に関する事項は別途定める賃金規程による。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "8",
+      "chapter_title": "定年、退職及び解雇",
+      "articles": [
+        {
+          "article_number": "47",
+          "article_title": "定年等",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者の定年は、満60歳とし、定年に達した日の属する月の末日をもって退職とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "定年に達した労働者が希望する場合は、定年退職の翌日から引き続き満65歳に達するまで原則、再雇用の措置をとる。ただし、心身の故障のため業務に堪えられないと認められること、勤務状況が著しく不良で引き続き労働者としての職責を果たし得ないこと等就業規則に定める解雇事由又は退職事由（年齢に係るものを除く。）に該当する場合には、継続雇用しないことができる。賃金、労働条件等については、個別に定める雇用契約書によるものとする",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "前項に定める再雇用の契約期間は1年以内とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "再雇用制度は、定年前の職務内容や同等の労働条件を保証するものではない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "48",
+          "article_title": "退職",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "第47条に定めるもののほか、労働者が次のいずれかに該当するときは、退職とする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "退職を願い出て会社が承認したとき"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "期間を定めて雇用されている場合、その期間を満了したとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "休職期間が満了し、なお休職事由が消滅しないとき"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "死亡したとき"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "定年に達したとき"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "行方不明となり30日が経過したとき"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者が退職し、又は解雇された場合、その請求に基づき、使用期間、業務の種類、地位、賃金又は退職の事由を記載した証明書を遅滞なく交付する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "49",
+          "article_title": "自己都合退職",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が退職を希望する場合、30日前までに退職願を提出するものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は退職願を出した後であっても、会社が承認した退職日までは誠実に業務に当たる義務がある。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "50",
+          "article_title": "解雇",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が次のいずれかに該当するときは、解雇することがある。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "勤務状況が著しく不良で、改善の見込みがなく、労働者としての職責を果たし得ないとき。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "勤務成績又は業務能率が著しく不良で、向上の見込みがなく、他の職務にも転換できない等就業に適さないとき。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "業務上の負傷又は疾病による療養の開始後3年を経過しても当該負傷又は疾病が治らない場合であって、労働者が傷病補償年金を受けているとき又は受けることとなったとき（会社が打ち切り補償を支払ったときを含む。）。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "精神又は身体の障害により業務に耐えられないとき。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "試用期間における作業能率又は勤務態度が著しく不良で、労働者として不適格であると認められたとき。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "懲戒解雇事由に該当する事実が認められたとき。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "事業の運営上又は天災事変その他これに準ずるやむを得ない事由により、事業の縮小又は部門の閉鎖等を行う必要が生じ、かつ他の職務への転換が困難なとき。"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "その他前各号に準ずるやむを得ない事由があったとき。"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項の規定により労働者を解雇する場合は、少なくとも30日前に予告をする。予告しないときは、平均賃金の30日分以上の手当を解雇予告手当として支払う。@ただし、予告の日数については、解雇予告手当を支払った日数だけ短縮することができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "本条第2項の規定は、労働基準監督署長の認定を受けて労働者を第56条第2項に定める懲戒解雇する場合又は次の各号のいずれかに該当する労働者を解雇する場合は適用しない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "日々雇い入れられる労働者（ただし、1か月を超えて引き続き使用されるに至った者を除く。）"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "2か月以内の期間を定めて使用する労働者（ただし、その期間を超えて引き続き使用されるに至った者を除く。）"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "試用期間中の労働者（ただし、14日を超えて引き続き使用されるに至った者を除く。）"
+                }
+              ]
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "本条第1項の規定による労働者の解雇に際して労働者から請求のあった場合は、解雇の理由を記載した証明書を交付する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "51",
+          "article_title": "雇用契約満了後の義務",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社の雇用契約が終了する労働者は、身分証明書、健康保険証、その他会社から貸与されたものを遅滞なく返還する必要がある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働契約が終了する労働者は、会社が指定する日までに必要な業務を後任者に引き継ぐ義務を負う。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "本条第2項の引継ぎは、所属長が指示した方法により、所属長が指名した者に引き継ぐものとする。なお、引継ぎは所属長から指名された者若しくは所属長から引継ぎ完了の承認を得ることで完了とする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "雇用契約が終了する労働者は、退職後における秘密保持等の契約書を会社に提出するものとする。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "9",
+      "chapter_title": "安全衛生及び災害補償",
+      "articles": [
+        {
+          "article_number": "52",
+          "article_title": "遵守事項",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、労働者の安全衛生の確保及び改善を図り、快適な職場の形成のために必要な措置を講ずる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は、安全衛生に関する法令及び会社の指示を守り、会社と協力して労働災害の防止に努めなければならない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "労働者は安全衛生の確保のため、特に下記の事項を遵守しなければならない。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "機械設備等の就業前点検を徹底すること。また、異常を認めたときは、速やかに会社に報告し、指示に従うこと。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "安全装置を取り外したり、その効力を失わせるようなことはしないこと。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "保護具の着用が必要な作業については、必ず着用すること。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "喫煙は、所定の場所以外では行わないこと。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "立入禁止又は通行禁止区域には立ち入らないこと。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "常に整理整頓に努め、通路、避難口又は消火設備のある所に物品を置かないこと。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "火災等非常災害の発生を発見したときは、直ちに臨機の措置をとり、事業主に報告し、その指示に従うこと。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "53",
+          "article_title": "安全衛生教育",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者に対し、雇入れの際及び配置換え等により作業内容を変更した場合、その従事する業務に必要な安全及び衛生に関する教育を行う。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は、安全衛生教育を受けた事項を遵守しなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "54",
+          "article_title": "災害補償",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が業務上の事由又は通勤により負傷し、疾病にかかり、又は死亡した場合は、労基法及び労働者災害補償保険法（昭和22年法律第50号）に定めるところにより災害補償を行う。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "10",
+      "chapter_title": "制裁",
+      "articles": [
+        {
+          "article_number": "55",
+          "article_title": "懲戒の種類",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、労働者が次条のいずれかに該当する場合は、その情状に応じ、次の区分により懲戒を行う。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "けん責始末書を提出させて将来を戒める。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "減給始末書を提出させて減給する。ただし、減給は1回の額が平均賃金の1日分の5割を超えることはなく、また、総額が1賃金支払期における賃金総額の1割を超えることはない。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "出勤停止始末書を提出させるほか、30日間を限度として出勤を停止し、その間の賃金は支給しない。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "懲戒解雇予告期間を設けることなく即時に解雇する。この場合において、所轄の労働基準監督署長の認定を受けたときは、解雇予告手当（平均賃金の30日分）を支給しない。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "56",
+          "article_title": "懲戒の事由",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が次のいずれかに該当するときは、情状に応じ、けん責、減給又は出勤停止とする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "正当な理由なく無断欠勤が5日以上に及ぶとき。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "正当な理由なくしばしば欠勤、遅刻、早退をしたとき。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "過失により会社に損害を与えたとき。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "素行不良で社内の秩序及び風紀を乱したとき。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "性的な言動により、他の労働者に不快な思いをさせ、又は職場の環境を悪くしたとき。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "性的な関心を示し、又は性的な行為をしかけることにより、他の労働者の業務に支障を与えたとき。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "第18条、第19条、第20条、第21条、第22条、第23条、第25条、第26条、第27条、第28条に違反したとき。"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "その他この規則に違反し又は前各号に準ずる不都合な行為があったとき。"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者が次のいずれかに該当するときは、懲戒解雇とする。ただし、平素の服務態度その他情状によっては、普通解雇、第55条に定める減給又は出勤停止とすることがある。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "重要な経歴を詐称して雇用されたとき。"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "正当な理由なく無断欠勤が5日以上に及び、出勤の督促に応じなかったとき。"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "正当な理由なく無断でしばしば遅刻、早退又は欠勤を繰り返し、3回にわたって注意を受けても改めなかったとき。"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "正当な理由なく、しばしば業務上の指示・命令に従わなかったとき。"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "故意又は重大な過失により会社に重大な損害を与えたとき。"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "会社内において刑法その他刑罰法規の各規定に違反する行為を行い、その犯罪事実が明らかとなったとき（当該行為が軽微な違反である場合を除く。）。"
+                },
+                {
+                  "sub_clause_number": "7",
+                  "sub_clause_content": "素行不良で著しく社内の秩序又は風紀を乱したとき。"
+                },
+                {
+                  "sub_clause_number": "8",
+                  "sub_clause_content": "数回にわたり懲戒を受けたにもかかわらず、なお、勤務態度等に関し、改善の見込みがないとき。"
+                },
+                {
+                  "sub_clause_number": "9",
+                  "sub_clause_content": "職責を利用して交際を強要し、又は性的な関係を強要したとき。"
+                },
+                {
+                  "sub_clause_number": "10",
+                  "sub_clause_content": "第18条、第19条、第20条、第21条、第22条、第23条、第25条、第26条、第27条、第28条に違反し、その情状が悪質と認められるとき。"
+                },
+                {
+                  "sub_clause_number": "11",
+                  "sub_clause_content": "許可なく職務以外の目的で会社の施設、物品等を使用したとき。"
+                },
+                {
+                  "sub_clause_number": "12",
+                  "sub_clause_content": "職務上の地位を利用して私利を図り、又は取引先等より不当な金品を受け、若しくは求め若しくは供応を受けたとき。"
+                },
+                {
+                  "sub_clause_number": "13",
+                  "sub_clause_content": "私生活上の非違行為や会社に対する正当な理由のない誹謗中傷等であって、会社の名誉信用を損ない、業務に重大な悪影響を及ぼす行為をしたとき。"
+                },
+                {
+                  "sub_clause_number": "14",
+                  "sub_clause_content": "正当な理由なく会社の業務上重要な秘密を外部に漏洩して会社に損害を与え、又は業務の正常な運営を阻害したとき。"
+                },
+                {
+                  "sub_clause_number": "15",
+                  "sub_clause_content": "その他前各号に準ずる不適切な行為があったとき。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "57",
+          "article_title": "懲戒の手続き",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社が懲戒処分を行おうとするときは、処分の内容、非違行為、懲戒の事由等を当該労働者に通知するものとする。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "懲戒処分を受けるときは、当該労働者は、本人の申し出により弁明の機会を得ることができる。なお、その申し出は通知書交付日（通知日）より5労働日以内に書面で行う必要がある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "本条第1項の通知書について、本人が受け取りを拒否する場合は、会社が書面を交付しようとする日を通知日とする。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "58",
+          "article_title": "懲戒前自宅待機",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、労働者の行為が懲戒処分に該当する可能性があると判断した場合、調査または審議決定するまでの間、当該労働者に対して、自宅待機を命じることができる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "59",
+          "article_title": "教唆および幇助",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が他人を教唆し、又は幇助して懲戒の事由に相当する行為をさせたときは、就業規則に準じて懲戒に処する。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "60",
+          "article_title": "加重",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、次の各号の事由に該当する場合には、その懲戒を加重することができる。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "非違行為の内容若しくは動機が悪質であるとき"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "非違行為の結果が重大であるとき"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "非違行為を行った労働者が管理または監督の地位にあるなど役職者であるとき"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "非違行為が会社に及ぼす影響が大きいとき"
+                },
+                {
+                  "sub_clause_number": "5",
+                  "sub_clause_content": "過去に類似の非違行為を行ったことを理由として、懲戒処分を受けたことがあるとき"
+                },
+                {
+                  "sub_clause_number": "6",
+                  "sub_clause_content": "同時に2つ以上の懲戒処分に該当する行為を行っていたとき"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "article_number": "61",
+          "article_title": "損害賠償",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が故意または過失によって会社に損害を与えたときは、会社はその全部または一部の賠償を求めることができる。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は、損害賠償の責任を退職後も免れることはできない。また、本人により賠償がなされないときは、会社は身元保証人に賠償を求めることができる。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "11",
+      "chapter_title": "健康診断等",
+      "articles": [
+        {
+          "article_number": "62",
+          "article_title": "健康診断",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社は、常時使用する労働者の入社の際及び毎年1回労働者の健康診断を行う。ただし、業務の繁忙期などはこの時期をずらすことがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "労働者は、正当な理由なく会社が実施する健康診断を拒否することはできない。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "健康診断の結果により必要がある場合は、医師の指示に従って就業を一定期間禁止し、または職場をかえることがある。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "4",
+              "clause_title": "本条第3項に従って会社から命じられた労働者は、この命を受けなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "63",
+          "article_title": "医師等による面接指導",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "長時間労働により疲労の蓄積が認められる労働者から申し出があった場合には、会社は医師による面接指導を行う。",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項の面接指導の結果、必要と認めるときは、一定期間の就業禁止、又は労働時間の短縮、配置転換その他必要な措置を行うことがある。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "64",
+          "article_title": "就業禁止の措置",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "労働者が次の各号のいずれかに該当した場合は、就業禁止とする。",
+              "sub_clauses": [
+                {
+                  "sub_clause_number": "1",
+                  "sub_clause_content": "伝ぱのおそれのある伝染症の疾患に罹患した場合"
+                },
+                {
+                  "sub_clause_number": "2",
+                  "sub_clause_content": "心臓・腎臓・肺等の疾病で、労働のため症状が著しく憎悪する恐れがある疾病に罹患した場合"
+                },
+                {
+                  "sub_clause_number": "3",
+                  "sub_clause_content": "医師が就業不適当と認めた場合"
+                },
+                {
+                  "sub_clause_number": "4",
+                  "sub_clause_content": "その他厚生労働大臣が定める疾病、その他法律の定める終業が禁止される疾病に罹患した場合、就業禁止を命じることができる"
+                }
+              ]
+            },
+            {
+              "clause_number": "2",
+              "clause_title": "本条第1項のほかに、会社は当該労働者の心身の状況が就業に適さないと判断した場合",
+              "sub_clauses": []
+            },
+            {
+              "clause_number": "3",
+              "clause_title": "本条第1項及び本条第2項の定めにより就業禁止とした期間は無給とする。@",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter_number": "12",
+      "chapter_title": "無期雇用転換",
+      "articles": [
+        {
+          "article_number": "65",
+          "article_title": "転換の条件",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "会社における有期労働契約期間を通算した期間（以下「通算契約期間」という。）が@5年を超える有期契約社員であって、引き続き雇用を希望する者は、会社に対し、期間@の定めのない労働契約へ転換すること（以下「無期転換」という。）を申し込むことが@できる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "66",
+          "article_title": "転換の推奨",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "新たな労働契約を締結したことにより、通算契約期間が5年を超えることとなる有期@契約社員であって、将来的に引き続き雇用されることを希望するものに対し、会社は、@現に締結している有期労働契約の契約期間が満了する日の1ヶ月前までに、無期転換の@申込みをするよう勧奨することができる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "67",
+          "article_title": "転換の申込",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "無期転換の申し込みは、現に締結している有期労働契約の契約期間が満了する日の1@ヶ月前までに、書面で行わなければならない。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "68",
+          "article_title": "転換時期",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "第65条の申し込みをしたときは、申込みをした有期契約社員は、現に締結している@有期労働契約が終了する日の翌日からこの規則に定める無期契約社員となる。",
+              "sub_clauses": []
+            }
+          ]
+        },
+        {
+          "article_number": "69",
+          "article_title": "労働条件",
+          "clauses": [
+            {
+              "clause_number": "1",
+              "clause_title": "無期契約社員の労働条件は、現に締結している有期労働契約の労働条件（契約期間お@よび定年の定めを除く。）と同一の労働条件とする。ただし、無期契約社員と合意のう@え、異なる労働条件を定めることができる。@附　則@（施行期日）@この規則は、　　　年　　　　月　　　　日から施行する。",
+              "sub_clauses": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
